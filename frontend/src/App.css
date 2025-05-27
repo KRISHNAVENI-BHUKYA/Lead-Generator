@@ -1,0 +1,10 @@
+.App{
+  background-image:linear-gradient(to right,lightblue,white);
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  /* border:1px solid; */
+  /* border-radius:3px; */
+}
